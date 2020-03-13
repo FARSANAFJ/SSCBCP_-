@@ -3,7 +3,7 @@
 %       Classic chaos example. Plots semi-stable values of
 %       x(n+1) = r*x(n)*(1-x(n)) as r increases to 4.
 %
-% Michael Hanchak, Dayton OH, USA, 2011
+
 
 clear
 scale = 10000; % determines the level of rounding
